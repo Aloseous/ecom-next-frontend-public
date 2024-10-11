@@ -1,0 +1,2 @@
+npx create-next-app@latest ./
+npm install @clerk/nextjs lucide-react @stripe/stripe-js stripe lucide-react mongoose react-hot-toast zustand
