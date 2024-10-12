@@ -12,7 +12,7 @@ import useOutSideClick from "@/hooks/useOutSideClick"; // Corrected import
 
 const NavBar = () => {
     const [isOpen, setIsOpen] = useState(false);
-    let dropdownRef = useRef<HTMLDivElement>(null);
+    const dropdownRef = useRef<HTMLDivElement>(null);
 
     const router = useRouter();
     const pathName = usePathname();
