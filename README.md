@@ -6,7 +6,7 @@
 
 <div>
 
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
@@ -95,4 +95,4 @@ Replace the placeholder values with your actual respective account credentials. 
 
 **Running the Project**
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Open [http://localhost:3001](http://localhost:3001) in your browser to view the project.
