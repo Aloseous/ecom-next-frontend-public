@@ -1,8 +1,10 @@
 <div align="center">
-  <br />
-      <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner">
-    </a>
-  <br />
+
+<div>
+<img src="https://github.com/user-attachments/assets/bae3195f-631a-458a-8e4f-d67232bada59" alt="collections" width="400">
+  <img src="https://github.com/user-attachments/assets/c777d4a5-159e-4b08-96b4-14205c146f93" alt="Products" width="400">
+
+<div>
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -12,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">ecommerce client</h3>
+  <h3 align="center">Ecommerce client</h3>
 
 </div>
 
@@ -52,6 +54,9 @@ cd ecom-next-frontend-public
 **Installation**
 
 Install the project dependencies using npm:
+```bash
+npm install
+```
 
 ```bash
 npm run dev
