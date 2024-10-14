@@ -38,6 +38,10 @@ Follow these steps to set up the project locally on your machine.
 
 **Prerequisites**
 
+Make sure you are running the backend in local.
+
+check [https://github.com/Aloseous/ecom-next-backend-public](https://github.com/Aloseous/ecom-next-backend-public)
+
 Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
@@ -91,9 +95,4 @@ Replace the placeholder values with your actual respective account credentials. 
 
 **Running the Project**
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:3001](http://localhost:3001) in your browser to view the project.
-
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
